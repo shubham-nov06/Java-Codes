@@ -10,6 +10,10 @@ class constructor {
     constructor(int i, int j) {
         i = 20;
         j = 30;
-        System.err.println(i, j);
+
+        System.out.println(i, j);
     }
+
 }
+
+
