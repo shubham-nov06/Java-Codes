@@ -12,7 +12,7 @@ public class copystack {
         for (int i = 0; i < n.size(); i++) {
             co.add((n.get(i)));
         }
-        System.out.println("AFter copy" + co);
+        System.out.println("After copy" + co);
 
     }
 
