@@ -12,5 +12,5 @@ public class copystack {
      n.reversed() ;
 
     }
-    System.out.println("AFter copy"co);
+    System.out.println("AFter copy" + co);
 }
