@@ -7,7 +7,10 @@ public class copystack {
         n.push(100);
         n.push(200);
         n.push(300);
-        
+
+     Stack<Integer> co = new Stack<>();
+     n.reversed() ;
 
     }
+    System.out.println("AFter copy"co);
 }
