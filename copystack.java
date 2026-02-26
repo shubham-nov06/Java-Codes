@@ -1,7 +1,7 @@
 import java.util.Stack;
 
 public class copystack {
-    public static void main(Stiring[] args) {
+    public static void main(String[] args) {
 
         Stack<Integer> n = new Stack<>();
         n.push(100);
