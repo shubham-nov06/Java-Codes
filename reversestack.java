@@ -1,4 +1,4 @@
-importjava.util>Stack
+importjava.util.Stack;
 
 public class reversestack {
     
