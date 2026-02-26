@@ -1,3 +1,7 @@
+/**
+ * This Java program creates a stack, populates it with integers, copies the stack elements to another
+ * stack, and then prints both stacks.
+ */
 import java.util.Stack;
 
 public class copystack {
