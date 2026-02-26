@@ -13,6 +13,6 @@ public class reversestack {
             rev.push(s.pop());
 
         }
-        system.out.println("Reversed stack is " + rev);
+        System.out.println("Reversed stack is " + rev);
     }
 }
