@@ -6,6 +6,8 @@ public class copystack {
         Stack<Integer> n = new Stack<>();
         n.push(100);
         n.push(200);
+        n.push(300);
+        
 
     }
 }
