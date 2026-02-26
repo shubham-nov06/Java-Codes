@@ -10,7 +10,7 @@ public class copystack {
 
      Stack<Integer> co = new Stack<>();
      for( int i = 0 ; i<= n.size() ; i++){
-        co.add((n.get(i)))
+        co.add((n.get(i)));
      }
          System.out.println("AFter copy" + co);
 
