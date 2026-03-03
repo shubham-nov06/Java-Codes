@@ -1,6 +1,5 @@
 
-
-Interface B {
+ interface B {
     int cube(int x);
 }
 
@@ -10,3 +9,4 @@ public class Lambda{
         System.out.println(obj.cube(5));
     }
 }
+
